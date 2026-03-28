@@ -88,6 +88,11 @@ uninstall.sh                         global uninstaller
 LICENSE                              MIT
 ```
 
+## Related workflow agents
+
+- [quality-reviewer](https://github.com/45ck/workflow-agents) - Own quality findings, debt, and rework prioritization
+- [delivery-manager](https://github.com/45ck/workflow-agents) - Turn quality risks into delivery-visible actions
+
 ## Related skill packs
 
 - [business-analysis-skills](https://github.com/45ck/business-analysis-skills) - Business analysis techniques, workflows, and quality checks
